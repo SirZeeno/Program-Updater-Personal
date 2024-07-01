@@ -1,0 +1,20 @@
+F:\Rider Projects\My Programs Updater\My Programs Updater\My Programs Updater\bin\Debug\net7.0\My Programs Updater.exe
+F:\Rider Projects\My Programs Updater\My Programs Updater\My Programs Updater\bin\Debug\net7.0\My Programs Updater.deps.json
+F:\Rider Projects\My Programs Updater\My Programs Updater\My Programs Updater\bin\Debug\net7.0\My Programs Updater.runtimeconfig.json
+F:\Rider Projects\My Programs Updater\My Programs Updater\My Programs Updater\bin\Debug\net7.0\My Programs Updater.dll
+F:\Rider Projects\My Programs Updater\My Programs Updater\My Programs Updater\bin\Debug\net7.0\My Programs Updater.pdb
+F:\Rider Projects\My Programs Updater\My Programs Updater\My Programs Updater\obj\Debug\net7.0\My Programs Updater.csproj.AssemblyReference.cache
+F:\Rider Projects\My Programs Updater\My Programs Updater\My Programs Updater\obj\Debug\net7.0\My Programs Updater.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rider Projects\My Programs Updater\My Programs Updater\My Programs Updater\obj\Debug\net7.0\My Programs Updater.AssemblyInfoInputs.cache
+F:\Rider Projects\My Programs Updater\My Programs Updater\My Programs Updater\obj\Debug\net7.0\My Programs Updater.AssemblyInfo.cs
+F:\Rider Projects\My Programs Updater\My Programs Updater\My Programs Updater\obj\Debug\net7.0\My Programs Updater.csproj.CoreCompileInputs.cache
+F:\Rider Projects\My Programs Updater\My Programs Updater\My Programs Updater\obj\Debug\net7.0\My Programs Updater.dll
+F:\Rider Projects\My Programs Updater\My Programs Updater\My Programs Updater\obj\Debug\net7.0\refint\My Programs Updater.dll
+F:\Rider Projects\My Programs Updater\My Programs Updater\My Programs Updater\obj\Debug\net7.0\My Programs Updater.pdb
+F:\Rider Projects\My Programs Updater\My Programs Updater\My Programs Updater\obj\Debug\net7.0\My Programs Updater.genruntimeconfig.cache
+F:\Rider Projects\My Programs Updater\My Programs Updater\My Programs Updater\obj\Debug\net7.0\ref\My Programs Updater.dll
+Y:\My Programs\My Programs Updater\net7.0\My Programs Updater.exe
+Y:\My Programs\My Programs Updater\net7.0\My Programs Updater.deps.json
+Y:\My Programs\My Programs Updater\net7.0\My Programs Updater.runtimeconfig.json
+Y:\My Programs\My Programs Updater\net7.0\My Programs Updater.dll
+Y:\My Programs\My Programs Updater\net7.0\My Programs Updater.pdb
